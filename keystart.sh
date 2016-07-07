@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo apt-get update && sudo apt-get -y upgrade
 sudo mkdir ~/.ssh
 sudo touch ~/.ssh/authorized_keys
